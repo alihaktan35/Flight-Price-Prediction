@@ -2,7 +2,7 @@
 
 A sleek and simple web application to predict flight prices using a machine learning model. Built with Streamlit and Scikit-learn, this tool provides a user-friendly interface for estimating flight costs.
 
-![Project Banner](https://i.hizliresim.com/a87zfj3.png)
+<img src="https://i.hizliresim.com/a87zfj3.png" alt="Project Banner" width="70%">
 
 ---
 
